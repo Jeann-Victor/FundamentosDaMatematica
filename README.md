@@ -12,10 +12,8 @@ Este repositório contém todo o conteúdo relacionado ao curso de **Fundamentos
 
 ## Material 
 
-1. [Slides](https://github.com/Jeann-Victor/Geometria-Analitica/tree/main/GEOMETRIA%20ANALITICA/Material%20de%20Apoio/Slides)
-2. [Exercícios](https://github.com/Jeann-Victor/Geometria-Analitica/tree/main/GEOMETRIA%20ANALITICA/Listas%20G.A)
-
-
+1. [Slides](https://github.com/Jeann-Victor/FundamentosDaMatematica/tree/main/FDMM/Slides%20de%20FMCC)
+2. [Exercícios](https://github.com/Jeann-Victor/FundamentosDaMatematica/tree/main/FDMM/Atividades%20FMCC)
 
 
 ## Autores
